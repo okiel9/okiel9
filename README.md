@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ... i dunno
 - 📫 How to reach me ... i dunno 
 - 😄 Pronouns: ... apache attack helicopter
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: ... my dog is really cute
+  
 
 <!---
 okiel9/okiel9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
